@@ -155,4 +155,4 @@ All data was fit with the same code as *Chap2NLLSBootstrapBiexpFit.m* for the bi
 
 [Chap5DisplayBiexpFitWithEliminationROIDelAIC10.m](https://github.com/diffusioned/MATLAB-Thesis-Code/blob/master/Chapter%205/Chap5DisplayBiexpFitWithEliminationROIDelAIC10.m) produced the results where biexponential fits with ΔAIC < 10 were removed, namely **Figures 86, 88, and 89**.  It can be modified to produced the kurtosis fits results in **Figures 87, 90, and 91**.
 
-### I hope some of this code helps you in your work.###
+### I hope some of this code helps you in your work.
