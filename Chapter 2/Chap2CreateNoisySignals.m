@@ -1,4 +1,4 @@
-% Chap2LinePlotOfSignalRange.m
+% Chap2CreateNoisySignals.m
 % MATLAB file for creating simulated data in PhD thesis by Ned Charles available here http://hdl.handle.net/2123/16060
 function Chap2CreateNoisySignals()
 filename = 'YourPath\YourNoiseFreeSignals.mat'; mFile = matfile(filename);
